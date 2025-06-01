@@ -33,7 +33,7 @@ public class MetodosClaseString {
         boolean ew = cad1.endsWith(" ");
         System.out.println(ew); // Verifica si la cadena termina con un espacio
 
-        String cad3 = "Hola Munod";
+        String cad3 = "Hola Mundo";
         String cad4 = "hola mundo";
 
         System.out.println(cad3.equals(cad4)); // Compara dos cadenas para igualdad
